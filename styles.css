@@ -1,0 +1,26 @@
+.container{
+    background-color: aquamarine;
+    height: 80vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.button{
+    background-color: green;
+    height: 30px;
+    width: 90px;
+    color: azure;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+
+}
+
+.score{
+    color:blue;
+}
